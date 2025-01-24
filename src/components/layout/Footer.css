@@ -1,0 +1,9 @@
+footer {
+    position: inherit;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+  }
+.link_site {
+    color: #f45d08 !important;
+}
